@@ -1,0 +1,59 @@
+.navbar{
+  margin-top: 0.5em !important;
+}
+
+.sanify_logo{
+  width: 5.8em;
+  height: 6.2em;
+}
+
+.appName{
+  font-size: 10vw;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 58px;
+  color: #1D948C;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  vertical-align: middle;
+  margin-right: 2%;
+}
+
+.text{
+  font-size: 5vw;
+  font-style: normal;
+  font-weight: 300;
+}
+
+strong{
+  color: #6EAAA6;
+}
+
+.cardDownload{
+  background: rgba(29, 148, 140, 0.11);
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+  margin: 2em 1em 2em 1em;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-areas:
+  'i1'
+  'i2'
+  'i3';
+  align-items: center;
+  justify-items: center;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.buttonDownload{
+  background: #6EAAA6;
+  border-radius: 50px;
+  padding: 1em;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  color: #1A4241;
+}
