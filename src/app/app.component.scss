@@ -47,6 +47,18 @@ strong{
   gap: 1rem;
 }
 
+.item1{
+  grid-area: i1;
+}
+
+.item2{
+  grid-area: i2;
+}
+
+.item3{
+  grid-area: i3;
+}
+
 .buttonDownload{
   background: #6EAAA6;
   border-radius: 50px;
